@@ -1,9 +1,8 @@
-<h1>Hi All</h1>
-- 👋 Hi, I’m @rameshalagumalai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hello World👋, its me Ramesh...</h1>
+- ❤️ Student
+- 🧑‍💻 Aspiring software developer
+- 💖 from India
+- 💪 Free lancing as of now
 
 <!---
 rameshalagumalai/rameshalagumalai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
