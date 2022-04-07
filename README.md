@@ -2,7 +2,6 @@
 - ❤️ Student
 - 🧑‍💻 Aspiring software developer
 - 💖 from India
-- 💪 Free lancing as of now
 
 <!---
 rameshalagumalai/rameshalagumalai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
