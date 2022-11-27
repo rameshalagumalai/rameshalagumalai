@@ -1,7 +1,7 @@
 <h1>Hello World👋, its me Ramesh...</h1>
-- ❤️ Student
-- 🧑‍💻 Aspiring software developer
-- 💖 from India
+-❤️ Student
+-🧑‍💻 Aspiring software developer
+-💖 from India
 
 <!---
 rameshalagumalai/rameshalagumalai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
